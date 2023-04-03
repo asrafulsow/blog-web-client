@@ -5,6 +5,7 @@ function App() {
   return (
     <div className="App">
       <h1>This is blog website</h1>
+      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet, fuga.</p>
     </div>
   );
 }
