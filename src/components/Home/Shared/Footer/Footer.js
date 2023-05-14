@@ -3,7 +3,10 @@ import React from 'react';
 const Footer = () => {
     return (
         <div>
-            <h2>This is Footer</h2>
+            <div class="grid grid-cols-4 gap-4">
+                <div>01</div>
+                <div>09</div>
+            </div>
 
         </div>
     );
