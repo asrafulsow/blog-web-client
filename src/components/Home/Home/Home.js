@@ -4,7 +4,6 @@ const Home = () => {
     return (
         <div>
             <h1 className='text-4xl text-red-950'>This is Home Page</h1>
-            <h1 className='text-4xl text-red-950'>This is Home Page</h1>
         </div>
     );
 };
