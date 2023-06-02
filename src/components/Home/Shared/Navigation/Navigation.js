@@ -8,6 +8,7 @@ const Navigation = () => {
                     <div class="grid grid-cols-4 gap-4">
                         <div className='logo'>
                             <img src="logo" alt="logo-img" />
+                            <img src="logo" alt="logo-img" />
                         </div>
                         <div>
                             <ul className='inline-flex text-right space-5'>
